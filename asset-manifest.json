@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-landing-page/static/css/main.b4a0797b.css",
+    "main.js": "/react-landing-page/static/js/main.e3d44837.js",
+    "static/js/787.da6f6eeb.chunk.js": "/react-landing-page/static/js/787.da6f6eeb.chunk.js",
+    "static/media/screenTwoHero.png": "/react-landing-page/static/media/screenTwoHero.1940568131de47a246bc.png",
+    "static/media/fourMiddle.png": "/react-landing-page/static/media/fourMiddle.ee8d33004dc309ce61be.png",
+    "static/media/fourRight.png": "/react-landing-page/static/media/fourRight.4617280d9442db36a4b1.png",
+    "static/media/CherryBomb-Regular.ttf": "/react-landing-page/static/media/CherryBomb-Regular.67836ae9a716aea60fbb.ttf",
+    "static/media/heroImage.png": "/react-landing-page/static/media/heroImage.b505056c6e911e163765.png",
+    "static/media/itemTwo.png": "/react-landing-page/static/media/itemTwo.24e1bf3bc666e1b59680.png",
+    "static/media/itemThree.png": "/react-landing-page/static/media/itemThree.580eac1076422f413bbd.png",
+    "static/media/itemOne.png": "/react-landing-page/static/media/itemOne.72f23bfb9e059fb87952.png",
+    "index.html": "/react-landing-page/index.html",
+    "main.b4a0797b.css.map": "/react-landing-page/static/css/main.b4a0797b.css.map",
+    "main.e3d44837.js.map": "/react-landing-page/static/js/main.e3d44837.js.map",
+    "787.da6f6eeb.chunk.js.map": "/react-landing-page/static/js/787.da6f6eeb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4a0797b.css",
+    "static/js/main.e3d44837.js"
+  ]
+}
