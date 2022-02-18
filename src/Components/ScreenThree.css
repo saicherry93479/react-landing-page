@@ -1,0 +1,85 @@
+.three {
+  background-color: #e4dcf0;
+  padding: 0px 64px;
+}
+.threeTop {
+  display: flex;
+}
+.threeTopItem {
+  width: 350px;
+  height: 201px;
+  /* margin-left: 64px; */
+  margin-top: 30px;
+  background: rgba(129, 85, 199, 0.05);
+  box-shadow: 0px 0px 40px 2px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  display: flex;
+  padding-left: 20px;
+}
+.itemOne {
+  margin-right: 50px;
+}
+.itemTwo {
+  margin-right: 50px;
+}
+.itemInfoTop {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 28px;
+  font-family: "Risque", cursive;
+  letter-spacing: 1px;
+  color: #595e5f;
+  margin-top: 30px;
+}
+.itemInfoDown {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 18px;
+  /* or 122% */
+  width: 150px;
+  margin-top: 15px;
+
+  letter-spacing: 0px;
+
+  color: #7d7777;
+}
+.itemImages {
+  overflow: hidden;
+  position: relative;
+}
+.itemicon {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+}
+
+.threeBottomTop {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 60px;
+  width: 60%;
+  margin-top: 70px;
+
+  letter-spacing: 4px;
+
+  color: #692acc;
+}
+.threeBottomBottom {
+  font-family: "Roboto";
+
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 200;
+  /* or 137% */
+
+  letter-spacing: 0px;
+  margin-top: 20px;
+  width: 500px;
+
+  color: #999191;
+}

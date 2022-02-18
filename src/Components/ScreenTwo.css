@@ -1,0 +1,71 @@
+.two {
+  background-color: white;
+
+  overflow-x: hidden;
+  display: flex;
+  position: relative;
+  padding-left: 64px;
+  padding-right: 0;
+  /* align-items: center; */
+  /* height: 100vh; */
+}
+.screenTwoImage {
+  height: 80vh;
+  width: 100vw;
+  /* object-fit: cover;  */
+}
+.info {
+  height: 100vh;
+  background-color: white;
+  width: 20vw;
+}
+.infoTop {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 45px;
+  line-height: 55px;
+  /* or 145% */
+  position: absolute;
+  top: 53%;
+  width: 580px;
+  left: 64px;
+
+  letter-spacing: 2px;
+
+  color: #692acc;
+  -webkit-text-stroke-width: 0.5px;
+  -webkit-text-stroke-color: black;
+}
+.infoDown {
+  font-family: "roboto", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+  color: #7d7777;
+  position: absolute;
+  top: 73%;
+  left: 64px;
+  width: 400px;
+}
+.infoButton {
+  padding: 20px;
+
+  position: absolute;
+  width: 120px;
+
+  height: 40px;
+  left: 64px;
+  top: 89%;
+  outline: none;
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+
+  background: #8155c7;
+  cursor: pointer;
+}

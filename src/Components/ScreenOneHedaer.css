@@ -1,0 +1,52 @@
+.screenOneHeader {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-top: 30px;
+  margin-bottom: 10px;
+}
+.screenOneHeader > h1 {
+  font-family: "CherryBomb-Regular";
+  font-size: 40px;
+  color: white;
+  cursor: pointer;
+}
+.screenOneHeader > div {
+  display: flex;
+  padding: 10px;
+  height: 52px;
+  align-items: center;
+}
+.screenOneHeader > div > h2 {
+  font-size: 18px;
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  font-weight: 400;
+  letter-spacing: 4px;
+  line-height: 22px;
+  flex: none;
+  margin-right: 22px;
+}
+.screenOneHeader > div > button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+  padding: 10px 20px;
+  font-size: 18px;
+  align-items: center;
+  background-color: transparent;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+
+  position: static;
+  width: 152.77px;
+  height: 42px;
+  left: 404px;
+  top: 5px;
+
+  /* white */
+
+  border: 1px dashed #ffffff;
+  box-sizing: border-box;
+}

@@ -1,0 +1,5 @@
+.one {
+  background-color: var(--primary-color);
+  padding: 0px 64px;
+  /* position: relative; */
+}
